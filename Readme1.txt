@@ -1,1 +1,0 @@
-Go to master brach from there you can download the source code.
