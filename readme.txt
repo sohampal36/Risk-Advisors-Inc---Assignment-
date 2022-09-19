@@ -1,11 +1,11 @@
-first go to the master brach 
+First go to the master brach 
 
-then download the code
+Then download the code
 
-open the code in vscode
+Open the code in vscode
 
-open terminal
+Open terminal
 
-write "npm i" to install all the libraries
+Write "npm i" to install all the libraries
 
-then write "yarn start" or "npm start" to run the web-app
+Then write "yarn start" or "npm start" to run the web-app
